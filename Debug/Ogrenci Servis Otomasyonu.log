@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\Çalışmalar\Ogrenci Servis Otomasyonu\main.cpp(742,8): warning C4101: 'destCoord': unreferenced local variable
+D:\Çalışmalar\Ogrenci Servis Otomasyonu\main.cpp(1211,10): warning C4129: '`': unrecognized character escape sequence
+  Ogrenci Servis Otomasyonu.vcxproj -> D:\Çalışmalar\Ogrenci Servis Otomasyonu\Debug\Ogrenci Servis Otomasyonu.exe
